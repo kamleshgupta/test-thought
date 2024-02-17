@@ -14,4 +14,4 @@ def test_cube_method():
 
 #TODO: Correct the Assertion Logic
 def test_sum_method():
-    assert sum_method(2,4) == 7
+    assert sum_method(2,4) == 6
